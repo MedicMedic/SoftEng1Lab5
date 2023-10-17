@@ -1,6 +1,6 @@
 # SoftEng1Lab5
 
-#Problem Statement
+# Problem Statement
 
 Smart Home Automation
 
@@ -13,3 +13,8 @@ Each device has unique actions associated with these commands. For example, turn
 New devices can be seamlessly integrated into the system without modifying existing code. You want to ensure that adding a new device doesn't require changes to the central control logic.
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
+
+# UML Class Diagram
+
+![image](https://github.com/MedicMedic/SoftEng1Lab5/assets/142379309/841db307-d764-4bfe-ad79-f9d1f1121345)
+
